@@ -1,0 +1,7 @@
+com/demo/misc/ErrorCode.class
+com/demo/pojo/ImageAttribute.class
+com/demo/service/ImageUploadService.class
+com/demo/misc/AuxiliaryHelper.class
+com/demo/mapper/WebApplicationExceptionMapper.class
+com/demo/pojo/ErrorResponse.class
+com/demo/pojo/Employee.class
